@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### About me
+## About me
 
 - 📫 You can reach me by these links:
 
