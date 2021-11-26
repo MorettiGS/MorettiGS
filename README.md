@@ -1,12 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Gabriel 👋
 
 ## About me
 
-- 📫 You can reach me by these links:
+Hi! I'm a Software Engineer student at the University of Brasilia - FD, currently searching for more knowledge about everything that comes to my interest.
 
-- 🔭 I’m a software engineer at the University of Brasilia (UnB)
 - 🌱 I’m currently learning Python, React, Node.js, JavaScript, Databases and others...
-- 👯 I’m looking to collaborate on independent games or Open Source projects!
+- 👯 I’m looking to collaborate on independent games or Open Source projects, just contact me!
  
 - 😄 Pronouns: He/Him
 
