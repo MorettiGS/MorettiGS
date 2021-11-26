@@ -8,5 +8,3 @@ I'm a 19 year old Software Engineer student at the University of Brasilia - FD, 
 - 👯 I’m looking to collaborate on independent games or Open Source projects!
  
 - 😄 Pronouns: He/Him
-
-<p>HIIII</p>
