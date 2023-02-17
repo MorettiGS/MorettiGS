@@ -6,5 +6,3 @@ I'm a 20 year old Software Engineer student at the University of Brasilia - FD, 
 
 - 🌱 I’m currently learning Python, React, Node.js, JavaScript, Databases and other areas...
 - 👯 I’m looking to collaborate on independent games or Open Source projects!
- 
-- 😄 Pronouns: He/Him
