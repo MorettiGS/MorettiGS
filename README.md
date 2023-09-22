@@ -2,7 +2,10 @@
 
 ## About me
 
-I'm a 21 year old Software Engineer student at the University of Brasilia - FD, currently searching for more knowledge and doing everything that comes to my interest.
+- 21 years old;
+- Software Engineer student at the University of Brasilia - FD (Brazil);
+- Always searching for more knowledge, and more new and innovating projects;
+- Looking to collaborate and/or participate in Game jams, coding marathons or any other event;
+- I've worked with React, Java, Javascript, Python, Haskell, MySQL, and many other languages and tools;
 
-- 🌱 I’m currently learning Python, React, Node.js, JavaScript, Databases and other areas...
-- 👯 I’m looking to collaborate on independent games or Open Source projects!
+Feel free to contact me whenever you want!
