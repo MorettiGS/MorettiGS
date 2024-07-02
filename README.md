@@ -1,5 +1,3 @@
-### Hello there, my name is Gabriel 👋
-
 ## About me
 
 - Software Engineer student at the University of Brasilia - FD (Brazil);
