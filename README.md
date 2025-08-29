@@ -91,6 +91,6 @@
 ### My GitHub Analytics
 <div align="center">
   <a href="https://github.com/MorettiGS">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MorettiGS&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorettiGS&layout=compact&langs_count=7&theme=react"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MorettiGS&show_icons=true&theme=react&text_color=FFFFFF&bg_color=220000&title_color=FFFFFF&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorettiGS&layout=compact&text_color=FFFFFF&bg_color=220000&title_color=FFFFFF&langs_count=7&theme=react"/>
 </div>
