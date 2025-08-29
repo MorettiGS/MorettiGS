@@ -1,6 +1,6 @@
 ### Hi! I'm Gabriel Moretti. :wave:
-- I'm a Software Engineer from the University of Brasília.
-- I'm an ICPC Contestant, and I love challenges and solving problems.
+- Software Engineer at the University of Brasília.
+- ICPC Contestant, and I love challenges and solving problems.
 - Always searching for knowledge.
 - I've worked with React, Java, PHP, Javascript, Python, C++, MySQL, and many other languages and tools;
 
