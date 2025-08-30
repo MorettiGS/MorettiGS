@@ -7,7 +7,7 @@
 - Software Engineer at the University of Brasília.
 - ICPC Contestant, lover of challenges and problem solving.
 - Mainly focused on software security, architecture, full stack development and testing.
-- Interested in AI, Game Development, 
+- Interested in Artificial Inteligence, Game Development and Data Science.
 - Always searching for knowledge.
 
 ### My links
