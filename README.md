@@ -4,7 +4,7 @@
 
 ### About me
 
-- Software Engineer at the University of Brasília.
+- Software Engineer - University of Brasília (FCTE).
 - ICPC Contestant, lover of challenges and problem solving.
 - Mainly focused on software security, architecture, full stack development and testing.
 - Interested in Artificial Inteligence, Game Development and Data Science.
