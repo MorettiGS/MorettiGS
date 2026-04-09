@@ -36,6 +36,7 @@
 **my webdev stack:**
 
 <code><img height="30" alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" alt="Angular" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="30" alt="Typescript" title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="30" alt="Spring Framework" title="Spring Framework" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
 <code><img height="30" alt="AWS S3" title="AWS S3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></code>
@@ -50,7 +51,6 @@
 
 **other languages i've worked with:**
 
-<code><img height="30" alt="Angular" title="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></code>
 <code><img height="30" alt="C" title="C" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
 <code><img height="30" alt="Yii2" title="Yii2" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original.svg"></code>
 <code><img height="30" alt="Node.js" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
